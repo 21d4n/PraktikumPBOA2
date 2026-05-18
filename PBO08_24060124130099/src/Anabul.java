@@ -3,10 +3,10 @@
     Tanggal : 27 April 2026
 */
 
-public abstract class Anabul08 {
+public abstract class Anabul {
     protected String Nama;
 
-    public Anabul08(String Nama){
+    public Anabul(String Nama){
         this.Nama = Nama;
     }
 
